@@ -4,9 +4,9 @@ Ce repos a été adapté pour correspondre aux besoins du projet Memory Safe C :
 https://github.com/Loris199/Memory-Safe-C
 
 Utilisation :
-- Lancer ´script.sh <outil>´ pour compiler / exécuter tous les programmes.
+- Lancer `script.sh <outil>` pour compiler / exécuter tous les programmes.
 - Ce script nécessite d'autres script génériques, présents dans le repos ci-dessus.
-- Le détail du paramètre ´<outil>´ s'y trouve également
+- Le détail du paramètre `<outil>` s'y trouve également
 
 README originel ci-dessous.
 

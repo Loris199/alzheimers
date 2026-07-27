@@ -1,3 +1,17 @@
+# Mise au propre
+
+Ce repos a été adapté pour correspondre aux besoins du projet Memory Safe C :
+https://github.com/Loris199/Memory-Safe-C
+
+Utilisation :
+- Lancer ´script.sh <outil>´ pour compiler / exécuter tous les programmes.
+- Ce script nécessite d'autres script génériques, présents dans le repos ci-dessus.
+- Le détail du paramètre ´<outil>´ s'y trouve également
+
+README originel ci-dessous.
+
+---
+
 # Alzheimer's
 
 An overview of commonly-occuring classes of memory-related bugs in C/C++. Following are the most frequently-occuring memory errors:

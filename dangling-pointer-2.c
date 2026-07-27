@@ -1,4 +1,4 @@
-#include <cstdio>
+#include <stdio.h>
 
 const char* foo() {
     char buf[10] = "foo";
@@ -7,4 +7,5 @@ const char* foo() {
 
 int main() {
     printf("%s\n", foo());
+    return 0;
 }

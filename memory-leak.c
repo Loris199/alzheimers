@@ -1,9 +1,10 @@
-#include <cstdio>
-#include <cstdlib>
+#include <stdio.h>
+#include <stdlib.h>
 
 void leak(int n) {
     // Allocates memory that is never freed
-    int *a = (int*) malloc(n * sizeof(int));
+    int *a = malloc(n * sizeof(int));
+    *a = 12;
     return;
 }
 
@@ -14,6 +15,5 @@ int main() {
         leak(1000);
     }
 
-    int input;
-    scanf("%d", &input);
+    return 0;
 }

@@ -4,7 +4,7 @@ Ce repos a été adapté pour correspondre aux besoins du projet [Memory Safe C]
 
 Utilisation :
 - Lancer `test.bash <outil>` pour compiler / exécuter tous les programmes.
-- Ce script nécessite d'autres script génériques, présents dans le repos ci-dessus.
+- Ce script nécessite d'autres scripts génériques, présents dans le repos ci-dessus.
 - Le détail du paramètre `<outil>` s'y trouve également
 
 README originel ci-dessous.

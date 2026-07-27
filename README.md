@@ -1,4 +1,4 @@
-# Mise au propre
+# Memory Safe C
 
 Ce repos a été adapté pour correspondre aux besoins du projet [Memory Safe C](https://github.com/Loris199/Memory-Safe-C)
 

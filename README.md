@@ -1,7 +1,6 @@
 # Mise au propre
 
-Ce repos a été adapté pour correspondre aux besoins du projet Memory Safe C :
-https://github.com/Loris199/Memory-Safe-C
+Ce repos a été adapté pour correspondre aux besoins du projet [Memory Safe C](https://github.com/Loris199/Memory-Safe-C)
 
 Utilisation :
 - Lancer `script.sh <outil>` pour compiler / exécuter tous les programmes.

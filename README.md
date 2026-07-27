@@ -5,7 +5,14 @@ Ce repos a été adapté pour correspondre aux besoins du projet [Memory Safe C]
 Utilisation :
 - Lancer `test.bash <outil>` pour compiler / exécuter tous les programmes.
 - Ce script nécessite d'autres scripts génériques, présents dans le repos ci-dessus.
-- Le détail du paramètre `<outil>` s'y trouve également
+- Le détail du paramètre `<outil>` s'y trouve également.
+
+Modifications :
+- Traduit le code C++ en code C.
+- Modifié certains programmes pour que l'erreur ne soit pas détectée par un compilateur standard.
+
+Note :
+- Le dossier `versionIA` contient une copie de chaque programme anonymisé afin de tester la détection d'erreur avec un agent IA.
 
 README originel ci-dessous.
 
